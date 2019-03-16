@@ -1,6 +1,3 @@
-**Checkout tts_pico repo**
-
-git clone https://git.visteon.com/SmartVoiceAssistant/sns_experiments/tts_pico.git```
 
 **build pico tts library**
 
