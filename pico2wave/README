@@ -1,0 +1,2 @@
+bash build.sh <android|linux|clean> 
+generates pico2wave binary uses libsvoxpico.so 

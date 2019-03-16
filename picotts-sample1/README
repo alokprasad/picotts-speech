@@ -1,0 +1,4 @@
+libsvoxpico.so -> actual tts lib
+libspeech.so -> API wrapper around tts
+testapp -> sample app using API 
+

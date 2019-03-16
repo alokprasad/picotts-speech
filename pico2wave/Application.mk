@@ -1,0 +1,3 @@
+APP_PLATFORM := android-27
+NDK_TOOLCHAIN_VERSION := clang
+APP_ABI := all

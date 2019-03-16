@@ -1,0 +1,5 @@
+#Linux Build
+bash build-pico.sh linux
+
+#Android Build
+bash build-pico.sh android
